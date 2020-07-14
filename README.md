@@ -1,4 +1,4 @@
-# face-recog
+# Face Recognitionand Mood Detection System
 
 ## Project setup
 ```
