@@ -1,4 +1,4 @@
-# Face Recognitionand Mood Detection System
+# Face Recognition and Mood Detection System
 
 ## Project setup
 ```
